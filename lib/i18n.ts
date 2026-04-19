@@ -115,19 +115,19 @@ export const translations = {
           name: "Gestion EPP",
           description:
             "La solución eficiente para el control de Equipos de Protección Personal en las empresas. Optimiza la administración, asegura el cumplimiento y lleva un registro preciso.",
-          tags: ["Laravel", "PHP", "PostgreSQL", "React"],
+          tags: ["Laravel", "PHP", "PostgreSQL", "Livewire"],
         },
         {
           name: "Thermia",
           description:
             "Sistema destinado a la automatización en la generación de informes termográficos a partir de datos capturados por dispositivos especializados.",
-          tags: ["AWS SAM", "Python", "React", "Node.js"],
+          tags: ["AWS SAM", "Python", "React", "Laravel"],
         },
         {
           name: "Hydrothermia Metrics",
           description:
             "Sistema diseñado para la recolección, almacenamiento, transformación y transmisión de datos provenientes de dispositivos industriales como métricas precisas y accionables.",
-          tags: ["AWS", "React", "PostgreSQL", "Docker"],
+          tags: ["AWS", "Laravel", "PostgreSQL", "Livewire"],
         },
         {
           name: "G3-GAMES",
