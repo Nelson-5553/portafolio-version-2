@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'Nelson Jiménez — Ingeniero de Sistemas',
+  icons: {
+    icon: '/logo.png',
+  },
   description:
     'Portafolio de Nelson Andrés Jiménez Alvarez. Ingeniero de Sistemas con experiencia en desarrollo full stack, automatizaciones empresariales con n8n y arquitectura cloud (AWS y Oracle).',
   keywords: ['Nelson Jiménez', 'Portafolio', 'Full Stack', 'Desarrollador', 'AWS', 'React', 'Laravel'],
