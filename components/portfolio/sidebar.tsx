@@ -96,12 +96,12 @@ export function Sidebar() {
           {/* Identity */}
           <div className="flex flex-col items-start gap-4">
             {/* Profile photo */}
-            <div className="relative w-52 h-60 rounded-2xl overflow-hidden shrink-0">
+            <div className="relative w-52 h-60 rounded-2xl overflow-hidden shrink-0 hidden">
               <Image
                 src="/person.png"
                 alt="Nelson Jiménez"
                 fill
-                className="object-contain object-bottom"
+                className="object-contain object-bottom hidden"
                 priority
               />
             </div>
